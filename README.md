@@ -7,4 +7,4 @@
 - http://localhost:8000/success - вернет http - код 200;
 - http://localhost:800/fail - вернет http - код 500;
 
-Адрес приложения на heroku - https://my-solution.herokuapp.com
+Адрес приложения на heroku - https://boiling-lowlands-10764.herokuapp.com
